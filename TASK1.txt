@@ -1,0 +1,17 @@
+#Method to Change the Default folder For Desktop 
+
+
+Step 1: Go to the home.
+
+Step 2:Press ctrl+H to show Hidden files
+
+Step 3:Now open .Config Folder
+
+Step 4:Now open "user-dirs.dirs" files in any editor.
+
+Step 5:Now change the Following line :
+		
+	XDG_DESKTOP_DIR="$HOME/Desktop"----->XDG_DESKTOP_DIR="$HOME/Your_Folder_Name"
+Step 5:Restart Your System
+
+******************************DONE************************************
